@@ -150,7 +150,9 @@ Use this one endpoint for all features. The behavior changes based on `functionN
    "functionName": "getLatestBlocks",
    "args": ["5"]
 }
+```
 
-
+### Example Video
+[Video](https://jam.dev/c/c309bd51-bc8c-40a7-a378-19a664281d7e)
 
 
